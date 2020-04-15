@@ -3,12 +3,14 @@
     <div class="topo">
       <div class="container">
         <div class="item">
-          <img
-            alt="Pokemon logo"
-            src="../assets/Pokémon_logo.svg.png"
-            width="83px"
-            height="51px"
-          />,
+          <router-link to='Home'>
+            <img
+              alt="Pokemon logo"
+              src="../assets/Pokémon_logo.svg.png"
+              width="83px"
+              height="51px"
+            />
+          </router-link>
         </div>
       </div>
     </div>
