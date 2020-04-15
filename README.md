@@ -1,13 +1,14 @@
 # pokeAPI
 Através da API do Pokemon foi criado um site que lista as gerações dos games e suas respectivas características.
 
-#Iniciando
+## Instação
 Clone o projeto em sua máquina e use os comandos abaixo para incializá-lo:
+```
+npm install
+npm start
+```
 
-  npm install
-  npm start
-  
-#Navegação
+## Navegação
 
 Ao entrar no site, todas as gerações de games são listadas no cabeçalho.
 
